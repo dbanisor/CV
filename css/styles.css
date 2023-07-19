@@ -89,13 +89,12 @@ body {
 .diplomas {
     width: 60%;
     line-height: 2;
-    margin: 75px auto 125px auto;
+    margin: 40px auto 125px auto;
     text-align: left;
 }
 
 .degrees-image {
-    width: 25%;
-    float: left;
+    width: 15%;
     margin-right: 30px;
 }
 
